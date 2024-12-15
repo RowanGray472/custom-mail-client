@@ -1,0 +1,3 @@
+# custom-mail-client
+
+This repo will contain a mail client that I build from scratch as a winter break project! Wish me luck...
